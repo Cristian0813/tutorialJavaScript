@@ -70,7 +70,7 @@ Este portafolio muestra el aprendizaje de los fundamentos de JavaScript, incluye
 
 **Licencia:**
 
-Este tutorial está bajo la licencia [MIT](). Puedes usarlo y modificarlo libremente.
+Este tutorial está bajo la licencia [MIT](https://github.com/Cristian0813/tutorialJavaScript/blob/main/LICENSE). Puedes usarlo y modificarlo libremente.
 
 **Agradecimientos:**
 
